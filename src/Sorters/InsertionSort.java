@@ -1,5 +1,7 @@
 package Sorters;
+//128, 256, 512, 1024, 2048, 4096, 8192,
 import java.util.*;
+
 public class InsertionSort {
 
     public static void sort(ArrayList<Integer> list) {
